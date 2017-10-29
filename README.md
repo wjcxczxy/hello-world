@@ -1,4 +1,2 @@
 # hello-world
-tah dah
-
-whatsoever
+printf ("hello world");
